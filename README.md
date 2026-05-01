@@ -16,6 +16,11 @@ A full-stack, production-inspired event streaming application built with **Node.
 
 ![Analytics Dashboard](./screenshots/analytics.png)
 
+### Event Trend Analysis
+> Cumulative history showing the progression of processed events over time.
+
+![History Chart](./screenshots/history-chart.png)
+
 ---
 
 ## 🏗️ Architecture
